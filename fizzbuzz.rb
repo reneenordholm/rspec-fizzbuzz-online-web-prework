@@ -5,6 +5,6 @@ def fizzbuzz(value)
     return "Fizz"
   elsif value == /5
     return "Buzz"
-  else
+  else value
     return "nil"
  end
