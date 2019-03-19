@@ -9,3 +9,4 @@ def fizzbuzz(int)
     "FizzBuzz" # Go fiz
   end
 end
+end
