@@ -7,7 +7,7 @@ def fizzbuzz(int)
     "Buzz"
   elsif int % 3 && 5 == 0
     "FizzBuzz"
-  else
-    return ""  # Go fizz
+  else int == 0
+    ""  # Go fizz
   end
 end
