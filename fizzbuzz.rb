@@ -8,4 +8,3 @@ def fizzbuzz(value)
   else
     return "nil"
  end
-end
